@@ -24,9 +24,6 @@ public class Main {
             + "\n"
             );
             
-            Bienvenida b = new Bienvenida();
-            b.bienvenida();
-            
             Tablero x= new Tablero();
             x.x();
         }
